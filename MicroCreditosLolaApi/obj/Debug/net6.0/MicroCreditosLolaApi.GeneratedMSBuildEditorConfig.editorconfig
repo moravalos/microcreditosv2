@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MicroCreditosLolaApi
+build_property.RootNamespace = MicroCreditosLolaApi
+build_property.ProjectDir = C:\Users\MorAvalos\Videos\MicroCreditosLola\MicroCreditosLolaApi\MicroCreditosLolaApi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MorAvalos\Videos\MicroCreditosLola\MicroCreditosLolaApi\MicroCreditosLolaApi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Deudores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Deudores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Deudores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Deudores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Deudores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Historials/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Historials/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Historials/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Historials/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Historials/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MorAvalos/Videos/MicroCreditosLola/MicroCreditosLolaApi/MicroCreditosLolaApi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ulx1sxle0v

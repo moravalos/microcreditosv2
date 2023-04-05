@@ -1,0 +1,89 @@
+﻿@model IEnumerable<MicroCreditosLolaApi.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Clientes</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Nuevo Cliente</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Nombre
+            </th>
+            <th>
+                Apellido Paterno
+            </th>
+            <th>
+                Apellido Materno
+            </th>
+            <th>
+                Cantidad
+            </th>
+            <th>
+                Telefono
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Fecha de prestamo
+            </th>
+            <th>
+                Dia de cobro
+            </th>
+            <th>
+                Meses de prestamo
+            </th>
+            <th>
+                Intereses
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <a asp-controller="Historials" asp-action="Details" asp-route-id="@item.Idcliente" >@Html.DisplayFor(modelItem => item.Nombre)</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellidop)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellidom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidadp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefono)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fechap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Diacobro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mesesprestamo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Intereses)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Idcliente" class="btn btn-warning">Registrar Pago</a> |
+                <a asp-action="Details" asp-route-id="@item.Idcliente" class="btn btn-primary">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Idcliente" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
